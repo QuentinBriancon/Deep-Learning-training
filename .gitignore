@@ -1,0 +1,5 @@
+# Ignore the animation.mp4 file
+animation.mp4
+
+# Ignore the venv/ directory
+venv/
